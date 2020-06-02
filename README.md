@@ -1,3 +1,3 @@
 # SwiftPackage1
 
-A description of this package.
+This is my basic Swift Package used for testing. 
